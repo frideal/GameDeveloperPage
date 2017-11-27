@@ -28,3 +28,5 @@ Use and cool website for Game developer
 3. GPU Gems 3 https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html
 4. The CG tutorial http://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter01.html
 
+## Other Cool Check list
+1. https://github.com/mattdesl/graphics-resources a list of graphic programming resources
