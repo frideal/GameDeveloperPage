@@ -14,9 +14,12 @@ Useful and cool website for Game developer
 1. Unity3d http://www.unity3d.com/
 2. Unreal https://www.unrealengine.com/
 
-# OPENGL
+# OPENGL & DX 
 1. http://ogldev.atspace.co.uk/index.html modern opengl tutorials.
 2. https://learnopengl.com/#!Introduction Very useful OPENGL contents.
+3. https://www.scratchapixel.com/index.php Scratch Pixel for OPENGL tutorials.
+4. https://developer.apple.com/opengl/ Apple's OPENGL Doc.
+5. http://www.realtimerendering.com/ Most Powerful realtime rendering website.
 
 # Rendering Tools
 1. https://home.otoy.com/render/octane-render/ OctaneRender is the world’s first and fastest GPU-accelerated, unbiased, physically correct renderer( Octane Render for Unity3d is on)
