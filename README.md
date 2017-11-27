@@ -34,5 +34,12 @@ Useful and cool website for Game developer
 3. GPU Gems 3 https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html
 4. The CG tutorial http://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter01.html
 
+## Game Fixed Time
+Why use fixed timestep and what is a timestep
+1. https://gamedev.stackexchange.com/questions/1589/when-should-i-use-a-fixed-or-variable-time-step
+2. https://gafferongames.com/post/fix_your_timestep/ Fix your timestep
+3. http://www.koonsolo.com/news/dewitters-gameloop/ Game loop
+4. https://www.gamedev.net/forums/topic/673798-what-is-a-timestep/ What is a time step
+
 ## Other Cool Check list
 1. https://github.com/mattdesl/graphics-resources a list of graphic programming resources
