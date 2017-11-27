@@ -14,6 +14,10 @@ Use and cool website for Game developer
 1. Unity3d http://www.unity3d.com/
 2. Unreal https://www.unrealengine.com/
 
+# OPENGL
+1. http://ogldev.atspace.co.uk/index.html modern opengl tutorials.
+2. https://learnopengl.com/#!Introduction Very useful OPENGL contents.
+
 # Rendering Tools
 1. https://home.otoy.com/render/octane-render/ OctaneRender is the world’s first and fastest GPU-accelerated, unbiased, physically correct renderer( Octane Render for Unity3d is on)
 
@@ -21,6 +25,8 @@ Use and cool website for Game developer
 ## Graphics  PipeLine
 1. https://engineering.riotgames.com/news/trip-down-lol-graphics-pipeline A trip down the LOL graphics pipeline
 2. https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/ A trip through the graphics pipeline 2011.
+3. http://openglinsights.com/pipeline.html OPENGL PIPELINE MAP
+4. https://msdn.microsoft.com/en-us/library/windows/desktop/ff476882(v=vs.85).aspx DX11 PIPELINE  
 
 ## GPU Gems and the CG tutorial(NVIDIA developer)
 1. GPU Gems 1 https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html
