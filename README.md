@@ -14,6 +14,12 @@ Useful and cool website for Game developer
 1. Unity3d http://www.unity3d.com/
 2. Unreal https://www.unrealengine.com/
 
+# Unity3d
+## Doc and tech article
+1. Unity3d's serialization and asset https://unity3d.com/cn/learn/tutorials/temas/best-practices/assets-objects-and-serialization
+2. Unity3d's asset bundle and asset https://unity3d.com/cn/learn/tutorials/topics/best-practices/guide-assetbundles-and-resources
+3. Unity3d's assetbundle load/unload management https://unity3d.com/cn/learn/tutorials/temas/best-practices/assetbundle-usage-patterns#Managing_Loaded_Assets
+
 # OPENGL & DX 
 1. http://ogldev.atspace.co.uk/index.html modern opengl tutorials.
 2. https://learnopengl.com/#!Introduction Very useful OPENGL contents.
