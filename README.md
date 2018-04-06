@@ -10,6 +10,12 @@ Useful and cool website for Game developer
 3. https://www.knaldtech.com/knald/ Knald for Generating incredibly high quality textures.
 4. https://www.allegorithmic.com/products/substance-painter substance-painter easy and powerful for creating high quality textures.
 
+# Math
+1. Simple Math Example for Game https://www.youtube.com/watch?v=Fy0aCDmgnxg
+2. Juicy - break out github https://github.com/grapefrukt/juicy-breakout about math cool opensource project
+3. Math for Game Programmers https://www.youtube.com/watch?v=o1n02xKP138&list=PLDATPsNGLQo4N_LEcGpU4U499S-CZ0NJ4
+4. The art of shake https://www.youtube.com/watch?v=AJdEqssNZ-U
+
 # Game Engine
 1. Unity3d http://www.unity3d.com/
 2. Unreal https://www.unrealengine.com/
