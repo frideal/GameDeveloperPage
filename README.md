@@ -69,3 +69,9 @@ Why use fixed timestep and what is a timestep
 
 # Cool Graphics Projects 
 1. http://spaceengine.org/download/spaceengine Space Engine.
+
+# Scene Management
+1. Ogre Scene Management
+2. BSP
+3. OCCTree
+4. http://www.openscenegraph.org/ OPENSCENEGRAPH
