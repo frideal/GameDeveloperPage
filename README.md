@@ -75,3 +75,7 @@ Why use fixed timestep and what is a timestep
 2. BSP
 3. OCCTree
 4. http://www.openscenegraph.org/ OPENSCENEGRAPH
+
+# Light Mode
+1. Phong
+2. Blinn-Phong
