@@ -1,6 +1,13 @@
 # GameDeveloperPage
 Useful and cool website for Game developer
 
+# Basic 
+### Gamma
+1. http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
+2. http://poynton.ca/GammaFAQ.html
+3. http://renderwonk.com/blog/index.php/archive/adventures-with-gamma-correct-rendering/
+4. https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch24.html **NVIDIA The importance of being Linear**
+
 # Game Art
 1. https://sketchfab.com/ For Game art looking up.
 
@@ -25,6 +32,7 @@ Useful and cool website for Game developer
 1. Unity3d's serialization and asset https://unity3d.com/cn/learn/tutorials/temas/best-practices/assets-objects-and-serialization
 2. Unity3d's asset bundle and asset https://unity3d.com/cn/learn/tutorials/topics/best-practices/guide-assetbundles-and-resources
 3. Unity3d's assetbundle load/unload management https://unity3d.com/cn/learn/tutorials/temas/best-practices/assetbundle-usage-patterns#Managing_Loaded_Assets
+4.  https://docs.unity3d.com/Manual/LinearRendering-LinearOrGammaWorkflow.html Unity Linear or gamma Game Work flow
 
 # OPENGL & DX 
 1. http://ogldev.atspace.co.uk/index.html modern opengl tutorials.
