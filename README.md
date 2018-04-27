@@ -2,6 +2,9 @@
 Useful and cool website for Game developer
 
 # Basic 
+*Glossary_of_computer_graphics*
+https://en.wikipedia.org/wiki/Glossary_of_computer_graphics#baking
+
 ### Gamma
 1. http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
 2. http://poynton.ca/GammaFAQ.html
