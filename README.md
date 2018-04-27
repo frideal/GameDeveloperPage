@@ -5,6 +5,9 @@ Useful and cool website for Game developer
 *Glossary_of_computer_graphics*
 https://en.wikipedia.org/wiki/Glossary_of_computer_graphics#baking
 
+### Some Glossary in CG
+1. T-Junctions Problem https://computergraphics.stackexchange.com/questions/1461/why-do-t-junctions-in-meshes-result-in-cracks
+
 ### Gamma
 1. http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
 2. http://poynton.ca/GammaFAQ.html
