@@ -45,9 +45,11 @@ https://en.wikipedia.org/wiki/Lightmap
 3. OPENGL dynamic light maps https://joshb.github.io/articles/dynamic_lightmaps_in_opengl/
 4. http://http.download.nvidia.com/developer/NVTextureSuite/Atlas_Tools/Texture_Atlas_Whitepaper.pdf Improve Batching Using Texture Atlases
 
-### Batching and atlases
+### Batching and atlases Sprite Sheet
 Why we use Texture Atlases in CG development
 1.  http://http.download.nvidia.com/developer/NVTextureSuite/Atlas_Tools/Texture_Atlas_Whitepaper.pdf Improve Batching Using Texture Atlases
+2. https://www.codeandweb.com/what-is-a-sprite-sheet You should know about the SPRITE SHEET
+
 # Game Art
 1. https://sketchfab.com/ For Game art looking up.
 
