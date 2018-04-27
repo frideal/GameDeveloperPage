@@ -8,6 +8,36 @@ Useful and cool website for Game developer
 3. http://renderwonk.com/blog/index.php/archive/adventures-with-gamma-correct-rendering/
 4. https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch24.html **NVIDIA The importance of being Linear**
 
+### Blend Modes(Mixing Modes)
+Determine how tow layers are blended into each other.
+https://en.wikipedia.org/wiki/Blend_modes#Multiply
+1. Normal Blend Mode
+2. Dissolve
+3. Multiply and Screen
+* Multiply
+* screen
+* Hard Light
+* Soft Light
+4. Dodge and burn
+5. Simple arithmetic blend modes
+* Divide
+* Addition
+* Subtract
+* Difference
+* Darken Only
+* Lighten Only
+6. Boolean arithmetic blend modes
+
+### Ligth Map
+https://en.wikipedia.org/wiki/Lightmap
+1. Quake's Lighting Mode(Light Map)https://www.bluesnews.com/abrash/chap68.shtml
+2. http://www.flipcode.com/archives/Light_Mapping_Theory_and_Implementation.shtml Light mapping and implementation
+3. OPENGL dynamic light maps https://joshb.github.io/articles/dynamic_lightmaps_in_opengl/
+4. http://http.download.nvidia.com/developer/NVTextureSuite/Atlas_Tools/Texture_Atlas_Whitepaper.pdf Improve Batching Using Texture Atlases
+
+### Batching and atlases
+Why we use Texture Atlases in CG development
+1.  http://http.download.nvidia.com/developer/NVTextureSuite/Atlas_Tools/Texture_Atlas_Whitepaper.pdf Improve Batching Using Texture Atlases
 # Game Art
 1. https://sketchfab.com/ For Game art looking up.
 
@@ -27,7 +57,11 @@ Useful and cool website for Game developer
 1. Unity3d http://www.unity3d.com/
 2. Unreal https://www.unrealengine.com/
 3. https://github.com/turanszkij/WickedEngine WICKED ENGINE
+4. https://github.com/orangeduck/Corange OPENSOURCE PURE C RENDER ENGINE
 
+# Shader
+1. https://joshb.github.io/articles/getting_started_with_glsl/
+2. https://www.amazon.com/OpenGL-4-0-Shading-Language-Cookbook/dp/1849514763
 
 # Unity3d
 ## Doc and tech article
