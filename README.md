@@ -16,8 +16,10 @@ Determine how tow layers are blended into each other.
 https://en.wikipedia.org/wiki/Blend_modes#Multiply
 
 Cool Source PhotoShop Math
-1. https://github.com/jamieowen/glsl-blend GLSL - BLEND
-2. photo Shop Math https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/
+
+https://github.com/jamieowen/glsl-blend GLSL - BLEND
+
+photo Shop Math https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/
 
 1. Normal Blend Mode
 2. Dissolve
