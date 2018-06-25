@@ -115,6 +115,11 @@ Why use fixed timestep and what is a timestep
 3. http://www.koonsolo.com/news/dewitters-gameloop/ Game loop
 4. https://www.gamedev.net/forums/topic/673798-what-is-a-timestep/ What is a time step
 
+## Noise 3D and 2D (Generate Noise By GPU or CPU)
+1. https://assetstore.unity.com/packages/tools/particles-effects/fastnoise-70706
+2. https://github.com/jesta88/Turbulence-Library
+3. https://github.com/BrianSharpe
+
 ## Other Cool Check list
 1. https://github.com/mattdesl/graphics-resources a list of graphic programming resources
 
@@ -130,3 +135,7 @@ Why use fixed timestep and what is a timestep
 # Light Mode
 1. Phong
 2. Blinn-Phong
+
+# Useful Blog
+1. http://www.decarpentier.nl/
+
