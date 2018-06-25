@@ -136,6 +136,16 @@ Why use fixed timestep and what is a timestep
 1. Phong
 2. Blinn-Phong
 
+# Terrain and Big Environment Creation
+1. http://www.decarpentier.nl/scape
+2. https://kosmonautblog.wordpress.com/2017/06/04/terrain-rendering-overview-and-tricks/
+3. https://pdfs.semanticscholar.org/4201/7f5b4970aced1b1b0a716893ce4ee4bb73f0.pdf
+4. https://www.gdcvault.com/play/1025480/Terrain-Rendering-in-Far-Cry
+5. https://www.youtube.com/watch?v=BM7Pz7CgTnc
+6. https://www.youtube.com/watch?v=ggLYTGLS1tk&t=135s 
+7. https://www.youtube.com/watch?v=4Ghulpp6CPw&t=133s (Proland - Real-time planet rendering VIII: forests (video of Eurographics 2012 paper)
+8. https://www.youtube.com/watch?v=_koFXROUJVA
+9. https://www.youtube.com/watch?v=wbpMiKiSKm8 (Unity3d's terrain generator)
 # Useful Blog
 1. http://www.decarpentier.nl/
 
