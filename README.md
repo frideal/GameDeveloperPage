@@ -85,6 +85,12 @@ Why we use Texture Atlases in CG development
 3. Unity3d's assetbundle load/unload management https://unity3d.com/cn/learn/tutorials/temas/best-practices/assetbundle-usage-patterns#Managing_Loaded_Assets
 4.  https://docs.unity3d.com/Manual/LinearRendering-LinearOrGammaWorkflow.html Unity Linear or gamma Game Work flow
 
+## Open source Project 
+1. https://github.com/snozbot/fungus Easy way to create interative story game
+2. https://github.com/SlightlyMad/VolumetricLights VolumetricLights
+3. https://github.com/raphael-ernaelsten/Aura VolumetricLights
+4. https://github.com/Unity-Technologies/guid-based-reference GUI-based-reference
+
 # OPENGL & DX 
 1. http://ogldev.atspace.co.uk/index.html modern opengl tutorials.
 2. https://learnopengl.com/#!Introduction Very useful OPENGL contents.
