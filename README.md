@@ -90,6 +90,8 @@ Why we use Texture Atlases in CG development
 2. https://github.com/SlightlyMad/VolumetricLights VolumetricLights
 3. https://github.com/raphael-ernaelsten/Aura VolumetricLights
 4. https://github.com/Unity-Technologies/guid-based-reference GUI-based-reference
+5. https://github.com/Nition/UnityOctree 
+6. https://github.com/Pixelstudio/Skydome Sky and cloud
 
 # OPENGL & DX 
 1. http://ogldev.atspace.co.uk/index.html modern opengl tutorials.
