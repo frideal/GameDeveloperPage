@@ -73,10 +73,12 @@ Why we use Texture Atlases in CG development
 2. Unreal https://www.unrealengine.com/
 3. https://github.com/turanszkij/WickedEngine WICKED ENGINE
 4. https://github.com/orangeduck/Corange OPENSOURCE PURE C RENDER ENGINE
+5. https://docs.panda3d.org/1.10/cpp/index Python And C++ Game Engine Panda3d
 
 # Shader
 1. https://joshb.github.io/articles/getting_started_with_glsl/
 2. https://www.amazon.com/OpenGL-4-0-Shading-Language-Cookbook/dp/1849514763
+3. https://github.com/lettier/3d-game-shaders-for-beginners Shader for Beginers
 
 # Unity3d
 ## Doc and tech article
@@ -84,6 +86,9 @@ Why we use Texture Atlases in CG development
 2. Unity3d's asset bundle and asset https://unity3d.com/cn/learn/tutorials/topics/best-practices/guide-assetbundles-and-resources
 3. Unity3d's assetbundle load/unload management https://unity3d.com/cn/learn/tutorials/temas/best-practices/assetbundle-usage-patterns#Managing_Loaded_Assets
 4.  https://docs.unity3d.com/Manual/LinearRendering-LinearOrGammaWorkflow.html Unity Linear or gamma Game Work flow
+
+## Unity3d Optimize
+1. https://blog.unity.com/technology/optimize-your-mobile-game-performance-tips-on-profiling-memory-and-code-architecture Unity3d's official Optimize eBook
 
 ## Open source Project 
 1. https://github.com/snozbot/fungus Easy way to create interative story game
@@ -157,3 +162,5 @@ Why use fixed timestep and what is a timestep
 # Useful Blog
 1. http://www.decarpentier.nl/
 
+# PBR Rendering
+1. https://google.github.io/filament/Filament.md.html#about [Google Mobile PBR Rendering System]
