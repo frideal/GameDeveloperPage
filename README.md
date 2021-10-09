@@ -68,6 +68,9 @@ Why we use Texture Atlases in CG development
 3. Math for Game Programmers https://www.youtube.com/watch?v=o1n02xKP138&list=PLDATPsNGLQo4N_LEcGpU4U499S-CZ0NJ4
 4. The art of shake https://www.youtube.com/watch?v=AJdEqssNZ-U
 
+## Linear Algebra
+1. https://www.youtube.com/watch?v=kjBOesZCoqc Linear algebra in depth
+
 # Game Engine
 1. Unity3d http://www.unity3d.com/
 2. Unreal https://www.unrealengine.com/
