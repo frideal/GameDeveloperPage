@@ -70,6 +70,7 @@ Why we use Texture Atlases in CG development
 
 ## Linear Algebra
 1. https://www.youtube.com/watch?v=kjBOesZCoqc Linear algebra in depth
+2. https://www.khanacademy.org/math/linear-algebra/matrix_transformations
 
 # Game Engine
 1. Unity3d http://www.unity3d.com/
