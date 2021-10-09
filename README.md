@@ -69,8 +69,10 @@ Why we use Texture Atlases in CG development
 4. The art of shake https://www.youtube.com/watch?v=AJdEqssNZ-U
 
 ## Linear Algebra
-1. https://www.youtube.com/watch?v=kjBOesZCoqc Linear algebra in depth
+1. https://www.youtube.com/watch?v=kjBOesZCoqc Linear algebra in depth[Essence of Linear Algebra]
 2. https://www.khanacademy.org/math/linear-algebra/matrix_transformations
+3. http://www.songho.ca/opengl/gl_projectionmatrix.html OpenGL Projection Matrix
+4. http://www.songho.ca/opengl/gl_transform.html#projection Rendering Projection
 
 # Game Engine
 1. Unity3d http://www.unity3d.com/
