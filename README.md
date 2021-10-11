@@ -5,6 +5,9 @@ Useful and cool website for Game developer
 *Glossary_of_computer_graphics*
 https://en.wikipedia.org/wiki/Glossary_of_computer_graphics#baking
 
+# System Design
+1. https://github.com/donnemartin/system-design-primer
+
 ### Some Glossary in CG
 1. T-Junctions Problem https://computergraphics.stackexchange.com/questions/1461/why-do-t-junctions-in-meshes-result-in-cracks
 
