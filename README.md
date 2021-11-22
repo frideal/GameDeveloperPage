@@ -157,6 +157,8 @@ Why use fixed timestep and what is a timestep
 # Light Mode
 1. Phong
 2. Blinn-Phong
+3. https://www.jordanstevenstechart.com/lighting-models
+4. https://janhalozan.com/2017/08/12/phong-shader/
 
 # Terrain and Big Environment Creation
 1. http://www.decarpentier.nl/scape
