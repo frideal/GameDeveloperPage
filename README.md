@@ -71,11 +71,22 @@ Why we use Texture Atlases in CG development
 3. Math for Game Programmers https://www.youtube.com/watch?v=o1n02xKP138&list=PLDATPsNGLQo4N_LEcGpU4U499S-CZ0NJ4
 4. The art of shake https://www.youtube.com/watch?v=AJdEqssNZ-U
 
+## Tools
+1. https://easings.net/ Easing Functions Cheat Sheet
+2. https://matthewlein.com/tools/ceaser CSS Transitions and Animation
+
+
 ## Linear Algebra
 1. https://www.youtube.com/watch?v=kjBOesZCoqc Linear algebra in depth[Essence of Linear Algebra]
 2. https://www.khanacademy.org/math/linear-algebra/matrix_transformations
 3. http://www.songho.ca/opengl/gl_projectionmatrix.html OpenGL Projection Matrix
 4. http://www.songho.ca/opengl/gl_transform.html#projection Rendering Projection
+
+
+## IK & FK
+1. https://en.wikipedia.org/wiki/Inverse_kinematics What is IK
+2. https://www.youtube.com/watch?v=UNoX65PRehA FABRIK (Inverse kinematics)
+3. http://andreasaristidou.com/FABRIK.html FABRIK
 
 # Game Engine
 1. Unity3d http://www.unity3d.com/
@@ -88,6 +99,8 @@ Why we use Texture Atlases in CG development
 1. https://joshb.github.io/articles/getting_started_with_glsl/
 2. https://www.amazon.com/OpenGL-4-0-Shading-Language-Cookbook/dp/1849514763
 3. https://github.com/lettier/3d-game-shaders-for-beginners Shader for Beginers
+4. https://acegikmo.com/shaderforge/nodes/ Some basic node about shader like useful math operations
+
 
 # Unity3d
 ## Doc and tech article
