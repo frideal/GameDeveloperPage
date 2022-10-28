@@ -72,6 +72,9 @@ Why we use Texture Atlases in CG development
 3. Math for Game Programmers https://www.youtube.com/watch?v=o1n02xKP138&list=PLDATPsNGLQo4N_LEcGpU4U499S-CZ0NJ4
 4. The art of shake https://www.youtube.com/watch?v=AJdEqssNZ-U
 
+## Quaternion
+1. https://www.semanticscholar.org/paper/Quaternions%2C-Interpolation-and-Animation-Dam-Koch/89278a22076beb70c1e64a94c3f822eb1d6bfb13
+
 ## Tools
 1. https://easings.net/ Easing Functions Cheat Sheet
 2. https://matthewlein.com/tools/ceaser CSS Transitions and Animation
